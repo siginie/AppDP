@@ -15,21 +15,8 @@ github_username: siginie
 email: siginie@hotmail.com
 
 gitalk:
-    owner: 'siginie'
-    admin: ['weiwosuoai'],
-    repo: 'gittalk-comments'
-    clientID: '633fd0fbd9d38d489a18'
-    clientSecret: '1b7d991fa42c5469966ebab77e7e0903cea1d507'
+    owner: siginie
+    repo: gittalk-comments
+    clientID: 633fd0fbd9d38d489a18
+    clientSecret: 1b7d991fa42c5469966ebab77e7e0903cea1d507
 
-# # social
-# author: "Lore Pirri"
-# image: /thumbnail-jumbo.png
-# twitter:
-#   username: lorepirri
-# #  site:
-# facebook:
-#   #publisher: 1592372034171500
-#   #profile_id: 1809805629
-#   app_id: 1798910940422432 # cayman-blog
-#   #authors: lorepirri
-# #  admins:
