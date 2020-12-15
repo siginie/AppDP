@@ -1,8 +1,8 @@
-title: TestMyipa
-description: 一个基于 GitHub 的测试下载平台
+title: APP Deploy platform
+description: APP Deploy platform
 show_downloads: false
 
-baseurl: "/TestMyipa" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "/AppDP" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://1ili.github.io" # change this to the base hostname & protocol for your site
 
 cayman-blog:
@@ -11,11 +11,11 @@ cayman-blog:
 theme: # leave it empty
 
 qq_number: 894857383
-github_username: 1ilI
-email: zhangyue_developer@icloud.com
+github_username: siginie
+email: siginie@hotmail.com
 
 gitalk:
-    owner: 1ilI
+    owner: siginie
     repo: blog-comments
     clientID: 2e32dfb3159f881371a2
     clientSecret: a186326084ea049d0b25a921c092f31ffc1096c8
