@@ -17,6 +17,6 @@ var gitalk = new Gitalk({
     admin: ['{{ site.gitalk.owner }}'],
     labels: ['TestMyipa'],
     perPage: 50,
-})
+});
 gitalk.render('gitalk-container')
 </script>

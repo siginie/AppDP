@@ -2,23 +2,23 @@ title: APP Deploy platform
 description: APP Deploy platform
 show_downloads: false
 
-baseurl: "/AppDP" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://1ili.github.io" # change this to the base hostname & protocol for your site
+baseurl: "/AppDP"
+url: "https://siginie.github.io"
 
 cayman-blog:
   date_format: "%b %-d, %Y"
 
 theme: # leave it empty
 
-qq_number: 894857383
+qq_number: 55955979
 github_username: siginie
 email: siginie@hotmail.com
 
 gitalk:
     owner: siginie
     repo: blog-comments
-    clientID: 2e32dfb3159f881371a2
-    clientSecret: a186326084ea049d0b25a921c092f31ffc1096c8
+    clientID: 633fd0fbd9d38d489a18
+    clientSecret: 1b7d991fa42c5469966ebab77e7e0903cea1d507
 
 # # social
 # author: "Lore Pirri"
