@@ -15,7 +15,7 @@ var gitalk = new Gitalk({
     repo: '{{ site.gitalk.repo }}',
     owner: '{{ site.gitalk.owner }}',
     admin: ['{{ site.gitalk.owner }}'],
-    labels: ['TestMyipa'],
+    labels: ['AppDP'],
     perPage: 50,
 });
 gitalk.render('gitalk-container')

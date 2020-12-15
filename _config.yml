@@ -8,18 +8,17 @@ url: "https://siginie.github.io"
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: jekyll-theme-modernist
+theme:
 
 qq_number: 55955979
 github_username: siginie
 email: siginie@hotmail.com
 
 gitalk:
-    owner: 'siginie'
-    admin: ['weiwosuoai'],
-    repo: 'gittalk-comments'
-    clientID: '633fd0fbd9d38d489a18'
-    clientSecret: '1b7d991fa42c5469966ebab77e7e0903cea1d507'
+    owner: siginie
+    repo: gittalk-comments
+    clientID: 633fd0fbd9d38d489a18
+    clientSecret: 1b7d991fa42c5469966ebab77e7e0903cea1d507
 
 # # social
 # author: "Lore Pirri"
