@@ -8,7 +8,7 @@ url: "https://siginie.github.io"
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: # leave it empty
+theme: jekyll-theme-modernist
 
 qq_number: 55955979
 github_username: siginie
